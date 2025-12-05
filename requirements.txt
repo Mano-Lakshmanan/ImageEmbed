@@ -1,0 +1,6 @@
+streamlit>=1.18.0
+torch               # install the correct cpu/cuda wheel for your system
+open-clip-torch
+Pillow
+numpy
+tqdm
