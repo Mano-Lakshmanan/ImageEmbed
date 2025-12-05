@@ -1,4 +1,4 @@
-# AI Image Search (Streamlit + CLIP)
+## AI Image Search (Streamlit + CLIP)
 
 ## Overview
 A Streamlit app to upload images, store them in a local `gallery/`, compute CLIP embeddings, and search by text or by image. The gallery enforces a size limit (default 50) and auto-evicts oldest images when needed.
